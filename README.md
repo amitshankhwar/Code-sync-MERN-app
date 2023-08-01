@@ -4,8 +4,8 @@ Frontend
 Clone the repo
 
 git clone https://github.com/amitshankhwar/Code-sync-MERN-app.git
-Install NPM packages
 
+Install NPM packages
 npm install
 Create a .env file using the template .env.template and add values accordingly.
 
