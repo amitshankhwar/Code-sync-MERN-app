@@ -1,19 +1,26 @@
-Setting Up the Project 🔧
+### Setting Up the Project 🔧
 
-Frontend
-Clone the repo
+* __Frontend__
 
-git clone https://github.com/amitshankhwar/Code-sync-MERN-app.git
+1. Clone the repo
 
-Install NPM packages
-npm install
-Create a .env file using the template .env.template and add values accordingly.
+   ```sh
+   git clone https://github.com/amitshankhwar/Code-sync-MERN-app.git
+   ```
+2. Install NPM packages
 
-Usage
-Switch to the root folder and run the backend server
+   ```sh
+   npm install
+   ```
+3. Create a .env file using the template .env.template and add values accordingly.
+   
+### Usage
 
-npm start 
-Switch to the Frontend folder and run the frontend server
+1.  Switch to the Root Directory and run the backend server
 
-npm start 
-Make sure you start the Backend server before the Frontend server to avoid unnecessary errors.
+    ```sh 
+    npm start 
+    ```
+    
+    Make sure you start the Backend server before the Frontend server to avoid unnecessary errors.
+***
